@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Chris DeAngelis, CFA
+subtitle: Finance and Data Analyst with 10 Years Experience
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I live with my family in Chicago and am passionate about sports, food, and traveling. I spent 8 years at the Bill & Melinda Gates Investment Office in Seattle and currently work in Caterpillar's corporate finance department with a focus on data analytics and visualization.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Expertise
 
-What else do you need?
+- Power BI
+1. Sole creator of an enterprise view, Power BI app shared with Caterpillar's executive office
+2. Leading Caterpillar's enterprise transition to Power BI from Tableau and legacy visualization tools
+3. Sole creator of an enterprise Power BI app (using R) creating easier access to publically available data
 
-### my history
+- Visualizations 
+1. [Variable Width Chart](https://github.com/topherdea/Variable_Width_Bar_Chart/blob/master/Variable_Width_Chart.png)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
