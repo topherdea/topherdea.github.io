@@ -15,4 +15,7 @@ I live with my family in Chicago and am passionate about sports, food, and trave
 
 - Visualizations 
 1. [Variable Width Chart](https://github.com/topherdea/Variable_Width_Bar_Chart/blob/master/Variable_Width_Chart.png)
+2. [Heat Map] (https://github.com/topherdea/Variable_Width_Bar_Chart/blob/master/Variable_Width_Chart.png)
+3. [Facet]
+
 
